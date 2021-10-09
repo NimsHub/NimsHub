@@ -8,17 +8,19 @@
 
 [<img align="left" alt="Nims_9T8 | Twitter" width="25px" src="https://img.icons8.com/fluency/240/000000/twitter.png" />][twitter]
 [<img align="left" alt="nirmala | LinkedIn" width="25px" src="https://img.icons8.com/fluency/240/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/gmail-new.png" />][email]
 [<img align="left" alt="mad_nirmala | Instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="nirmala | Facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/whatsapp.png" />][whatsapp]
+
 
 <br/>
 
 ### ⚙️ Currently used Tools and Languages
 
-[<img align="left" alt="Visual Studio Code" width="30px" margin-bottom="3px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/240/000000/visual-studio-2019.png" />][visualstudio]
-[<img align="left" alt="HTML5" width="30px" margin="6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" />][js]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
@@ -38,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/nirmala-sabaragamuwa
 [facebook]: https://www.facebook.com/nirmala.madhusankha.1/
 [whatsapp]: https://wa.me/94719629058
+[email]: mailto:nirmalasabaragamuwa@gmail.com
 [vscode]: https://code.visualstudio.com/
 [visualstudio]: https://visualstudio.microsoft.com/
 [html]: https://www.w3schools.com/html/
