@@ -10,6 +10,7 @@
 [<img align="left" alt="nirmala | LinkedIn" width="25px" src="https://img.icons8.com/fluency/240/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="mad_nirmala | Instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="nirmala | Facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/whatsapp.png" />][whatsapp]
 
 <br/>
 
@@ -36,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/mad_nirmala/
 [linkedin]: https://www.linkedin.com/in/nirmala-sabaragamuwa
 [facebook]: https://www.facebook.com/nirmala.madhusankha.1/
+[whatsapp]: https://wa.me/94719629058
 [vscode]: https://code.visualstudio.com/
 [visualstudio]: https://visualstudio.microsoft.com/
 [html]: https://www.w3schools.com/html/
