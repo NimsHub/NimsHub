@@ -13,7 +13,7 @@
 
 <br/>
 
-### Currently used Tools and Languages
+### ⚙️ Currently used Tools and Languages
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/240/000000/visual-studio-2019.png" />][visualstudio]
