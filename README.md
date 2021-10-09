@@ -16,7 +16,7 @@
 
 ### ⚙️ Currently used Tools and Languages
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="30px" margin-bottom="3px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/240/000000/visual-studio-2019.png" />][visualstudio]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
