@@ -27,7 +27,7 @@
 [<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 [<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png" />][mongodb]
 [<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />][git]
-[<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg" />][github]
 [<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/fluency/96/000000/console.png" />][terminal]
 
 
