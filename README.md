@@ -11,7 +11,7 @@
 [<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/gmail-new.png" />][email]
 [<img align="left" alt="mad_nirmala | Instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="nirmala | Facebook" width="25px" src="https://img.icons8.com/fluency/240/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/whatsapp.png" />][whatsapp]
+
 
 
 <br/>
