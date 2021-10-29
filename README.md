@@ -57,7 +57,7 @@
  </details>
     
   <details>
-  <summary>: Wakatime Week Stats</summary>
+  <summary>⏳ Wakatime Week Stats</summary>
   
   <br/>
   
