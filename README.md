@@ -31,8 +31,8 @@
 [<img align="left" alt="GitHub" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg" />][github]
 [<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/fluency/96/000000/console.png" />][terminal]
 
+<br/>
 
----
 [![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=dark)](https://github.com/Nims98/github-readme-stats)
 
 <!---
