@@ -57,7 +57,7 @@
  </details>
     
   <details>
-  <summary>:zap: Wakatime Week Stats</summary>
+  <summary>: Wakatime Week Stats</summary>
   
   <br/>
   
