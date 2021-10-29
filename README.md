@@ -39,7 +39,7 @@
   <br/>
   
   <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>😅 Github Stats</summary>
   
   <br/>
   
@@ -48,7 +48,7 @@
   </details>
 
   <details>
-  <summary>:zap: Top Languages</summary>
+  <summary>💻 Top Languages</summary>
   
   <br/>
   
