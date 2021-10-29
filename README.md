@@ -56,7 +56,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
 
   </details>
+  
+  <details>
+  <summary>:zap: Wakatime Week Stats</summary>
+  
+  <br/>
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nims98&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
 
+<details>
 
 <!---
 Nims98/Nims98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
