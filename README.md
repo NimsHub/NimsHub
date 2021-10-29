@@ -38,6 +38,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
+  <br/>
+  
 [![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
   
 </details>
