@@ -41,9 +41,6 @@
   
  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true" />
-
-  
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true" />
   
   <details>
@@ -53,7 +50,7 @@
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)]
 
-<details>
+</details>
 
 <!---
 Nims98/Nims98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
