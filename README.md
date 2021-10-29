@@ -43,7 +43,7 @@
   
   <br/>
   
-  [![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)
   
   </details>
 
@@ -52,7 +52,7 @@
   
   <br/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true)
   
  </details>
     
@@ -61,7 +61,7 @@
   
   <br/>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)]
+  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)
 
 </details>
 
