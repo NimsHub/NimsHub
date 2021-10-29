@@ -39,30 +39,19 @@
   
   <br/>
   
-  <details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  <br/>
-  
-[![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)  
-  
-  </details>
-  
-  <details>
-  <summary>:zap: Top Languages</summary>
-  
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true" />
 
-  </details>
+  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true" />
   
   <details>
   <summary>:zap: Wakatime Week Stats</summary>
   
   <br/>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)]
 
 <details>
 
