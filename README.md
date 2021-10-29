@@ -39,9 +39,19 @@
   
   <br/>
   
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+  
 [![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)  
+  
+  </details>
+  
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&hide_border=true)](https://github.com/Nims98/github-readme-stats)
 
+  </details>
 
 
 <!---
