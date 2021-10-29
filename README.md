@@ -45,11 +45,11 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Languages</summary>
   
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8)](https://github.com/Nims98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko)](https://github.com/Nims98/github-readme-stats)
 
   
 </details>
