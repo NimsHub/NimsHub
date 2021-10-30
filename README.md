@@ -61,7 +61,7 @@
   
   <br/>
   
-  ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)
+  ![Nirmala's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)
 
 </details>
 
