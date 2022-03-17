@@ -30,7 +30,7 @@
 [<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />][git]
 [<img align="left" alt="GitHub" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg" />][github]
 [<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/fluency/96/000000/console.png" />][terminal]
-
+[<img align="left" alt="Mariadb" width="30px" src="https://img.icons8.com/fluency/48/000000/maria-db.png" />][Mariadb]
 <br/>
 <br/>
 
@@ -86,3 +86,4 @@ You can click the Preview link to take a look at your changes.
 [git]: https://git-scm.com/doc
 [github]: https://github.com/Nims98
 [terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701
+[Mariadb]:https://mariadb.org/documentation/
