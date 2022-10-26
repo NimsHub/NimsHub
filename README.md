@@ -18,9 +18,8 @@
 <br/>
 
 ### ⚙️ Currently used Tools and Languages
-
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
-[<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/240/000000/visual-studio-2019.png" />][visualstudio]
+[<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/480/000000/intellij-idea.png"/>][visualstudio]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" />][js]
@@ -79,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 [whatsapp]: https://wa.me/94719629058
 [email]: mailto:nirmalasabaragamuwa@gmail.com
 [vscode]: https://code.visualstudio.com/
-[visualstudio]: https://visualstudio.microsoft.com/
+[intellij]: https://www.jetbrains.com/idea/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
 [js]: https://www.w3schools.com/js/
