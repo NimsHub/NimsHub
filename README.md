@@ -14,8 +14,6 @@
 [<img align="center" alt="nirmala | Facebook" width="30px" src="https://github.com/Nims98/Nims98/blob/main/fbgif.gif" />][facebook]
 
 
-<br/>
-
 ### ⚙️ Currently used Tools and Languages
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/480/000000/intellij-idea.png"/>][intellij]
