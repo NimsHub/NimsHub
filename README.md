@@ -42,7 +42,7 @@
   <br/>
   
   <details>
-  <summary>😅 Github Stats</summary>
+  <summary>😅<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/Nims98/Nims98/blob/main/devgif.gif" /> Github Stats</summary>
   
   <br/>
   
