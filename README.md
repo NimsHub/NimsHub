@@ -5,7 +5,7 @@
 - 🙋‍♂️ I’m looking to collaborate with other developers ...
 
 ### 📫 How to reach me ...
-
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/NiwZ9THiCOodYySoSh/video" width="480"></iframe></div>
 <div style="margin-right: 2px;">
 
 [<img align="center" alt="Nims_9T8 | Twitter" width="32px" src="https://github.com/Nims98/Nims98/blob/main/twittergif.gif" />][twitter]
