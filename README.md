@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me ...
 
-<div style="margin-right: 300px;">
+<div style="margin-right: 2px;">
 
 [<img align="center" alt="Nims_9T8 | Twitter" width="30px" src="https://github.com/Nims98/Nims98/blob/main/twittergif.gif" />][twitter]
 [<img align="center" alt="nirmala | LinkedIn" width="30px" src="https://github.com/Nims98/Nims98/blob/main/linkedingif.gif" />][linkedin]
