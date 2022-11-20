@@ -7,7 +7,7 @@
 ### 📫 How to reach me ...
 
 
-[<img align="left" alt="Nims_9T8 | Twitter" width="25px" src="https://github.com/Nims98/Nims98/blob/main/icons8-twitter(1).gif" />][twitter]
+[<img align="left" alt="Nims_9T8 | Twitter" width="25px" src="https://github.com/Nims98/Nims98/blob/main/icons8-twitter%20(1).gif" />][twitter]
 [<img align="left" alt="nirmala | LinkedIn" width="25px" src="https://img.icons8.com/fluency/240/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://img.icons8.com/fluency/240/000000/gmail-new.png" />][email]
 [<img align="left" alt="mad_nirmala | Instagram" width="25px" src="https://img.icons8.com/fluency/240/000000/instagram-new.png" />][instagram]
