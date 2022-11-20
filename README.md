@@ -42,7 +42,7 @@
   <br/>
   
   <details>
-  <summary>😅<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/Nims98/Nims98/blob/main/devgif.gif" /> Github Stats</summary>
+  <summary><img align="center" alt="Nims_9T8 | Twitter" width="30px" src="https://github.com/Nims98/Nims98/blob/main/chartgif.gif"/> Github Stats</summary>
   
   <br/>
   
@@ -51,7 +51,7 @@
   </details>
 
   <details>
-  <summary>💻 Top Languages</summary>
+  <summary><img align="center" alt="Nims_9T8 | Twitter" width="30px" src="https://github.com/Nims98/Nims98/blob/main/monitorgif.gif"/> Top Languages</summary>
   
   <br/>
   
@@ -60,7 +60,7 @@
  </details>
     
   <details>
-  <summary>⏳ Wakatime Week Stats</summary>
+  <summary><img align="center" alt="Nims_9T8 | Twitter" width="30px" src="https://github.com/Nims98/Nims98/blob/main/timeergif.gif"/> Wakatime Week Stats</summary>
   
   <br/>
   
