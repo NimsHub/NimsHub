@@ -1,10 +1,12 @@
 ## 👋 Hey there, I’m Nirmala
 
-[<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/Nims98/Nims98/blob/main/AZzW.gif" />][twitter]
+
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nims98.github.io/portfolio/)](https://nims98.github.io/portfolio/)
 - 🧑‍💻 I’m an Engineering Undergraduate ...
 - 🌱 I’m currently learning everything ...
 - 🙋‍♂️ I’m looking to collaborate with other developers ...
+
+[<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/Nims98/Nims98/blob/main/AZzW.gif" />][twitter]
 
 ### 📫 How to reach me ...
 
