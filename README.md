@@ -8,10 +8,10 @@
 
 
 [<img align="left" alt="Nims_9T8 | Twitter" width="30px" src="https://github.com/Nims98/Nims98/blob/main/twittergif.gif" />][twitter]
-[<img align="left" alt="nirmala | LinkedIn" width="25px" margin="10px" src="https://github.com/Nims98/Nims98/blob/main/linkedingif.gif" />][linkedin]
-[<img align="left" alt="nirmala | Whatsapp" width="25px" src="https://github.com/Nims98/Nims98/blob/main/gmailgif.gif" />][email]
-[<img align="left" alt="mad_nirmala | Instagram" width="25px" src="https://github.com/Nims98/Nims98/blob/main/instagif.gif" />][instagram]
-[<img align="left" alt="nirmala | Facebook" width="25px" src="https://github.com/Nims98/Nims98/blob/main/fbgif.gif" />][facebook]
+[<img align="left" alt="nirmala | LinkedIn" width="30px" src="https://github.com/Nims98/Nims98/blob/main/linkedingif.gif" />][linkedin]
+[<img align="left" alt="nirmala | Whatsapp" width="30px" src="https://github.com/Nims98/Nims98/blob/main/gmailgif.gif" />][email]
+[<img align="left" alt="mad_nirmala | Instagram" width="30px" src="https://github.com/Nims98/Nims98/blob/main/instagif.gif" />][instagram]
+[<img align="left" alt="nirmala | Facebook" width="30px" src="https://github.com/Nims98/Nims98/blob/main/fbgif.gif" />][facebook]
 
 
 
