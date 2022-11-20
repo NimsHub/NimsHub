@@ -8,9 +8,9 @@
 
 <div style="margin-right: 2px;">
 
-[<img align="center" alt="Nims_9T8 | Twitter" width="33px" src="https://github.com/Nims98/Nims98/blob/main/twittergif.gif" />][twitter]
+[<img align="center" alt="Nims_9T8 | Twitter" width="32px" src="https://github.com/Nims98/Nims98/blob/main/twittergif.gif" />][twitter]
 [<img align="center" alt="nirmala | LinkedIn" width="30px" src="https://github.com/Nims98/Nims98/blob/main/linkedingif.gif" />][linkedin]
-[<img align="center" alt="nirmala | Whatsapp" width="28px" src="https://github.com/Nims98/Nims98/blob/main/gmailgif.gif" />][email]
+[<img align="center" alt="nirmala | Whatsapp" width="26px" src="https://github.com/Nims98/Nims98/blob/main/gmailgif.gif" />][email]
 [<img align="center" alt="mad_nirmala | Instagram" width="30px" src="https://github.com/Nims98/Nims98/blob/main/instagif.gif" />][instagram]
 [<img align="center" alt="nirmala | Facebook" width="30px" src="https://github.com/Nims98/Nims98/blob/main/fbgif.gif" />][facebook]
 
