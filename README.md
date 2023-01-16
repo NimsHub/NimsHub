@@ -55,7 +55,7 @@
   
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=0a0f0b)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=0a0f0b&border_radius=9)
   
  </details>
     
@@ -64,7 +64,7 @@
   
   <br/>
   
-  ![Nirmala's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true)
+  ![Nirmala's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nirmala&theme=merko&hide_border=true&border_radius=9)
 
 </details>
 
