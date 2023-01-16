@@ -46,7 +46,7 @@
   
   <br/>
   
-  ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&border_color=0a0f0b)
+  ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&border_color=0a0f0b&border_radius=9)
 
   </details>
 
