@@ -46,7 +46,7 @@
   
   <br/>
   
-  ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko)
+  ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&border_color=0a0f0b)
 
   </details>
 
@@ -55,7 +55,7 @@
   
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=00ffffff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=0a0f0b)
   
  </details>
     
