@@ -47,7 +47,7 @@
   <br/>
   
   ![Nirmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=merko&hide_border=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nims98&show_icons=true&theme=transparent)
   </details>
 
   <details>
