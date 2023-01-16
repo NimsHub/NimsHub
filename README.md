@@ -55,7 +55,7 @@
   
   <br/>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=0a0f0b&border_radius=9)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nims98&langs_count=8&theme=merko&border_color=0a0f0b&border_radius=9&layout=compact)
   
  </details>
     
