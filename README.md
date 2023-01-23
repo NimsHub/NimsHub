@@ -1,8 +1,6 @@
 <img src="mytheme.png">
 <h1 align="center">👋 Hey there, I’m Nirmala </h1>
 
-<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/NimsHub/NimsHub/blob/main/devgif.gif"/>
-
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
 - 🧑‍💻 I’m an Engineering Undergraduate ...
