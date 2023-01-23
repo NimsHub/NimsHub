@@ -1,6 +1,7 @@
+<img src="mytheme.png">
+
 ## 👋 Hey there, I’m Nirmala [<img align="center" alt="Nims_9T8 | Twitter" width="80px" src="https://github.com/NimsHub/NimsHub/blob/main/devgif.gif" />][twitter]
 
-<img src="mytheme.png">
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
 - 🧑‍💻 I’m an Engineering Undergraduate ...
