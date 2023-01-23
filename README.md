@@ -1,6 +1,6 @@
 <img src="mytheme.png">
 
-<h1 align="center" style="margin-top:-15px">👋 Hey there, I’m Nirmala </h1>
+<h1 align="center">👋 Hey there, I’m Nirmala </h1>
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
