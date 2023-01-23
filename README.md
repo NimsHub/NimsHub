@@ -1,11 +1,8 @@
 <img src="mytheme.png">
-<h1 align="center" styles="margin:20px">👋 Hey there, I’m Nirmala </h1>
 
-<style>
-  h1{
-    margin-top: -15px;
-  }
-</style>
+<h1 align="center" style="margin-top:-15px">👋 Hey there, I’m Nirmala </h1>
+
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
 
