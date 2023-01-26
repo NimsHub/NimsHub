@@ -1,8 +1,12 @@
 <img src="mytheme.png">
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://github.com/NimsHub"><img align="center" src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala" alt="Typing SVG" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=30&lines=A+passionate+developer+from+Sri+Lanka)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://github.com/NimsHub"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=A+passionate+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
+</div>
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
 
