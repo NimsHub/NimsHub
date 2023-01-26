@@ -1,8 +1,8 @@
 <img src="mytheme.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&duration=3000&pause=3000&color=F7F7F7&center=true&vCenter=true&width=460&height=40&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&duration=3000&pause=3000&color=F7F7F7&center=true&multiline=true&width=460&height=40&lines=A+passionate+developer+from+Sri+Lanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=30&lines=A+passionate+developer+from+Sri+Lanka)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
 
