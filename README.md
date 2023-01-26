@@ -1,6 +1,6 @@
 <img src="mytheme.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=32&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=35&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Nirmala" alt="Typing SVG" /></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=455&height=30&lines=A+passionate+developer+from+Sri+Lanka)](https://git.io/typing-svg)
 
