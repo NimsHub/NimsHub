@@ -1,7 +1,5 @@
 <img src="mytheme.png">
-<a href="https://github.com/NimsHub">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nirmala+Madhusankha;" alt="Typing SVG" />
-</a>
+
 <h1 align="center">👋 Hey there, I’m Nirmala </h1>
 
 <h3 align="center">A passionate developer from Sri Lanka</h3>
