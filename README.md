@@ -8,11 +8,15 @@
 <a href="https://github.com/NimsHub"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=450&height=50&lines=A+passionate+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
 </div>
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=NimsHub&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
+
+<!-- [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://nimshub.github.io/portfolio/)](https://nimshub.github.io/portfolio/) -->
 
 
 
-- 🧑‍💻 I’m an Engineering Undergraduate ...
+- 🧑‍💻 I’m an Engineering Undergraduate with 1+ years industry experiance...
 - 🌱 I’m currently learning everything ...
 - 🙋‍♂️ I’m looking to collaborate with other developers ...
 
@@ -23,39 +27,40 @@
 
 [<img align="center" alt="Nims_9T8 | Twitter" width="32px" src="https://github.com/NimsHub/NimsHub/blob/main/twittergif.gif" />][twitter]
 [<img align="center" alt="nirmala | LinkedIn" width="30px" src="https://github.com/NimsHub/NimsHub/blob/main/linkedingif.gif" />][linkedin]
-[<img align="center" alt="nirmala | Whatsapp" width="26px" src="https://github.com/NimsHub/NimsHub/blob/main/gmailgif.gif" />][email]
+[<img align="center" alt="nirmala | Email" width="26px" src="https://github.com/NimsHub/NimsHub/blob/main/gmailgif.gif" />][email]
 [<img align="center" alt="mad_nirmala | Instagram" width="30px" src="https://github.com/NimsHub/NimsHub/blob/main/instagif.gif" />][instagram]
 [<img align="center" alt="nirmala | Facebook" width="30px" src="https://github.com/NimsHub/NimsHub/blob/main/fbgif.gif" />][facebook]
 
 
-### ⚙️ Currently used Tools and Languages
+### 💻 Tech Stack ...
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=flat&logo=Cockroach%20Labs&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=black)
 
 
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />][vscode]
-[<img align="left" alt="Visual Studio" width="30px" src="https://img.icons8.com/color/480/000000/intellij-idea.png"/>][intellij]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/144/000000/javascript--v1.png" />][js]
-[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo--v1.png"/>][Java]
-[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="Spring Boot" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />][spring]
-[<img align="left" alt="MongoDB" width="30px" src="https://img.icons8.com/color/240/000000/mongodb.png" />][mongodb]
-[<img align="left" alt="Mariadb" width="30px" src="https://img.icons8.com/fluency/48/000000/maria-db.png" />][Mariadb]
-[<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/240/000000/git.png" />][git]
-[<img align="left" alt="GitHub" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg" />][github]
-[<img align="left" alt="Terminal" width="30px" src="https://img.icons8.com/fluency/96/000000/console.png" />][terminal]
-
-
-<br/>
-<br/>
 <hr/>
 
   
   <br/>
   
   <details>
-  <summary><img align="center" alt="Nims_9T8 | Twitter" width="28px" src="https://github.com/NimsHub/NimsHub/blob/main/chartgif.gif"/> Github Stats</summary>
+  <summary>📊 Github Stats</summary>
   
   <br/>
   
@@ -64,7 +69,7 @@
   </details>
 
   <details>
-  <summary><img align="center" alt="Nims_9T8 | Twitter" width="28px" src="https://github.com/NimsHub/NimsHub/blob/main/monitorgif.gif"/> Top Languages</summary>
+  <summary>🗠 Top Languages</summary>
   
   <br/>
   
@@ -73,7 +78,7 @@
  </details>
     
   <details>
-  <summary><img align="center" alt="Nims_9T8 | Twitter" width="28px" src="https://github.com/NimsHub/NimsHub/blob/main/timeergif.gif"/> Wakatime Week Stats</summary>
+  <summary>⌛ Wakatime Week Stats</summary>
   
   <br/>
   
